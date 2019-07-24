@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a los comics de Rocío
 
 You can use the [editor on GitHub](https://github.com/rociocomics/rociocomics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
