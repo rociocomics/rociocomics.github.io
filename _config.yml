@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 name: Rocio Comics
 paginate: 5
 plugins:
-- jekyll-paginate
+  - jekyll-paginate
