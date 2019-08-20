@@ -5,4 +5,4 @@ categories: general
 published: true
 ---
 
-![comic](/amiga-e-ingles.png)
+![comic](/amiga-e-ingles.png?1)
